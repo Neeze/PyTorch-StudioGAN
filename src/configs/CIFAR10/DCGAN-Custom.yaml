@@ -7,6 +7,6 @@ MODEL:
   g_conv_dim: "N/A"
   d_conv_dim: "N/A"
 OPTIMIZATION:
-  batch_size: 64
+  batch_size: 32
   d_updates_per_step: 2
   total_steps: 200000
